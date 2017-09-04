@@ -1,7 +1,7 @@
 body {
 	text-align: center;
 	background: ("threshold_jpnkaleidescope.jpg");
-background-size: contain;
+background-size: cover;
 color: #fff;
 font-family: Helvetica;
 }
