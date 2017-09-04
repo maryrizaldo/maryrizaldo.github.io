@@ -1,9 +1,11 @@
 body {
 	text-align: center;
-	background: url("https://i.imgur.com/3wJKtDa.jpg");
-background-size: cover;
+	background-size: cover;
 color: #fff;
 font-family: Helvetica; 
+}
+#bg {
+	background: url("https://i.imgur.com/3wJKtDa.jpg");
 }
 p{font-size: 22px
 }
