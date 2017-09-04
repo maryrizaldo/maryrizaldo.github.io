@@ -1,9 +1,9 @@
 body {
 	text-align: center;
 	background: url("maryrizaldo.github.io/unit_3/images/threshold_jpnkaleidescope.jpg");
-background-size: cover;
+background-size: 100% auto;
 color: #fff;
-font-family: Helvetica;
+font-family: Helvetica; 
 }
 p{font-size: 22px
 }
