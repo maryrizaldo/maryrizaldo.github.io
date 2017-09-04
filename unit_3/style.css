@@ -6,6 +6,9 @@ font-family: Helvetica;
 }
 #bg {
 	background: url("https://i.imgur.com/3wJKtDa.jpg");
+	position: fixed; 
+	top: 0;
+	
 }
 p{font-size: 22px
 }
