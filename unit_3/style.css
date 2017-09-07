@@ -1,13 +1,19 @@
 header {
 	background-color: white;
-	padding: 15px;
+	padding: 9px;
+}
+
+body {
+	color: #222;
+	font-family: helvetica
+	font-size: 16px
 }
 #slogan {
 	text-align: center;
 	background: url("https://i.imgur.com/7E8nCbX.png");
 	background-size: cover;
 	color #ffffff;
-	font-family: Century, sans-serif;
+	font-family: HELVETICA;
 }
 nav {
 
