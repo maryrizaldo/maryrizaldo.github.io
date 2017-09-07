@@ -3,7 +3,7 @@ body {
 	background: url("https://i.imgur.com/7E8nCbX.png");
 	background-size: cover;
 	color #ffffff;
-	font-family: Futura;
+	font-family: Century, sans-serif;
 }
 nav {
 	font-size: 25px;
@@ -15,5 +15,7 @@ nav {
 h1 {
 
 	text-align: center;
+	font-size: 2em
+	letter-spacing: .25em;
 
 }
