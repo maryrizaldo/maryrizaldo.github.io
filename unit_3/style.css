@@ -4,15 +4,21 @@ header {
 }
 
 body {
-	background: url("https://i.imgur.com/7E8nCbX.png");
-	background-size: cover;
+	color:#222;
+	font-family: helvetica;
+	font-size: 16px;
+	
 }
 #slogan {
 	text-align: center;
-	font-size: 16px
+	font-size: 32px
 	color #ffffff;
 	font-family: HELVETICA;
 	height: 100vh
+	background: url("https://i.imgur.com/7E8nCbX.png");
+	background-size: cover;
+	padding: 10em 0 0;
+
 }
 nav {
 
