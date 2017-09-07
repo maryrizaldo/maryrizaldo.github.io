@@ -1,10 +1,11 @@
 header {
 	background-color: white;
 	padding: 9px;
+	float: center;
 }
 
 body {
-	color:#222;
+	color:#fff;
 	font-family: helvetica;
 	font-size: 16px;
 	
