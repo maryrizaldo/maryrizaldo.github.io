@@ -15,10 +15,7 @@ body {
 	background: url("https://i.imgur.com/LW4s4HQ.jpg");
 	background-size: cover;
 	color:#000; 
-	padding-right: 10px;
-	padding-left: 10px;
-	padding-bottom: 10px;
-	padding-top: 10px
+	padding: 10em 0 0;
 	height: 100vh
 	
 }
