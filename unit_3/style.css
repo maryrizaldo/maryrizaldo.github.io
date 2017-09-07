@@ -1,3 +1,7 @@
+header {
+	background-color: white;
+	padding: 1em;
+}
 body {
 	text-align: center;
 	background: url("https://i.imgur.com/7E8nCbX.png");
@@ -6,6 +10,7 @@ body {
 	font-family: Century, sans-serif;
 }
 nav {
+
 	font-size: 25px;
 	color #ffffff
 	text-align: center;
