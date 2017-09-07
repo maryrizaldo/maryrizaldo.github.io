@@ -1,8 +1,8 @@
 header {
 	background-color: white;
-	padding: 1em;
+	padding: 15px;
 }
-body {
+#slogan {
 	text-align: center;
 	background: url("https://i.imgur.com/7E8nCbX.png");
 	background-size: cover;
