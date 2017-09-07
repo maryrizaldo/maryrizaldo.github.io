@@ -5,7 +5,9 @@ body {
 	color #ffffff;
 	font-family: Helvetica;
 }
-h1 {
+nav {
 	font-size: 25px;
 	color #ffffff
+	text-align: center;
+	width: 50%;
 }
