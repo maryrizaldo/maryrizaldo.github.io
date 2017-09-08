@@ -4,11 +4,12 @@ title{
 
 }
 header {
-	display: inline-flex;
+	list-style-type: none;
 	background-color: white;
 	padding: 14px 16px;
-	float: left;
 	text-decoration: none;
+	margin: 0;
+	overflow: hidden;
 
 }
 
@@ -21,10 +22,10 @@ body {
 }
 section {
 	text-align: center;
-	background: url("https://i.imgur.com/LW4s4HQ.jpg");
+	background: url("https://i.imgur.com/pDrRgn7.jpg");
 	background-size: cover;
 	color:#000; 
-	height: 100vh;
+	height: 300vh;
 	
 }
 .nav-menu-item {
