@@ -27,32 +27,24 @@ section {
 	padding: 15em 0 0;
 }
 
-ul {
-	list-style-type: none;
+nav {
+	float: left;
+	width: 75%
+
+
+}
+
+nav a {
 	margin-right: 50px;
 	margin-left: 50px;
-	padding:0;
-	overflow: hidden;
-	background-color: white;
-	font-size: 12px;
 
 }
 
-li {
-	float: left;
-}
-
-li a{ 
-display: block;
+a{ 
 color: black;
 text-decoration: none;
 padding-bottom: 14px 16px;
 text-align: center;
- }
-
- li a:hover {
- 	background-color: grey;
-
  }
 
 h1 {
