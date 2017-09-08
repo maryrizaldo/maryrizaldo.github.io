@@ -1,5 +1,5 @@
 title{
-	font-family: Gotham; 
+	font-family: Gotham sans-serif; 
 	font-weight: bold;
 
 }
@@ -7,39 +7,41 @@ header {
 	
 	background-color: white;
 	padding: 14px 16px;
-	text-decoration: none;
-	
+		
 
 }
 
 body {
 	color: #000;
-	font-family: Gotham;
+	font-family: Gotham sans-serif;
 	font-size: 16px;
 	text-align: center;
-	background: url("https://i.imgur.com/pDrRgn7.jpg");
-	background-size: cover;
+	
 }
 section {
-	vertical-align: middle;
 	text-align: center;
 	color:#000; 
+	background: url("https://i.imgur.com/pDrRgn7.jpg");
+	background-size: cover;
+	height:500vh;
 	
 	
 }
 .nav-menu-item {
 
 
-	margin-right: 50px;
-	margin-left: 50px;
-	margin-top: 10px;
-	margin-bottom: 10px;
+	float: left;
+	display: inline-block;
+	color: black;
+	text-align: center;
 	font-size: 12px;
 	padding: 30px
 	word-spacing: 30px;
 	margin: 0;
 	overflow: hidden;
 	list-style-type: none;
+	text-decoration: none;
+
 
 }
 
