@@ -4,12 +4,11 @@ title{
 
 }
 header {
-	list-style-type: none;
+	
 	background-color: white;
 	padding: 14px 16px;
 	text-decoration: none;
-	margin: 0;
-	overflow: hidden;
+	
 
 }
 
@@ -18,17 +17,17 @@ body {
 	font-family: Gotham;
 	font-size: 16px;
 	text-align: center;
-	
+	background: url("https://i.imgur.com/pDrRgn7.jpg");
+	background-size: cover;
 }
 section {
 	text-align: center;
-	background: url("https://i.imgur.com/pDrRgn7.jpg");
-	background-size: cover;
 	color:#000; 
 	height: 300vh;
 	
 }
 .nav-menu-item {
+
 
 	margin-right: 50px;
 	margin-left: 50px;
@@ -36,9 +35,10 @@ section {
 	margin-bottom: 10px;
 	font-size: 12px;
 	padding: 30px
-	width: 100%;
 	word-spacing: 30px;
-	
+	margin: 0;
+	overflow: hidden;
+	list-style-type: none;
 
 }
 
