@@ -21,6 +21,7 @@ body {
 	background-size: cover;
 }
 section {
+	vertical-align: middle
 	text-align: center;
 	color:#000; 
 	height: 300vh;
@@ -46,7 +47,7 @@ h1 {
 
 	text-align: center;
 	font-size: 4em;
-	letter-spacing: .25em;
+	letter-spacing: .15em;
 
 
 
