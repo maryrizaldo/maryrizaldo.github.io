@@ -1,16 +1,20 @@
 title{
-	font-family: Futura; 
+	font-family: Gotham; 
 	font-weight: bold;
+
 }
 header {
+	display: inline-flex;
 	background-color: white;
-	padding: 30px;
-	
+	padding: 14px 16px;
+	float: left;
+	text-decoration: none;
+
 }
 
 body {
 	color:#000;
-	font-family: Futura;
+	font-family: Gotham;
 	font-size: 16px;
 	text-align: center;
 	
@@ -25,13 +29,14 @@ section {
 }
 .nav-menu-item {
 
-	margin-right: 75px;
-	margin-left: 75px;
-	margin-top: :10px;
+	margin-right: 50px;
+	margin-left: 50px;
+	margin-top: 10px;
 	margin-bottom: 10px;
 	font-size: 12px;
 	padding: 30px
 	width: 100%;
+	word-spacing: 30px;
 	
 
 }
