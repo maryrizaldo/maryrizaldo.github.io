@@ -48,14 +48,19 @@ padding-bottom: 14px 16px;
 text-align: center;
  }
 
-h1, h2 {
+h1, {
 
 	text-align: center;
 	font-size: 4em;
 	letter-spacing: .15em;
-	font-family: Pacifico; 
+	font-family: 'Open Sans', sans-serif;
 	
 }
+p{  text-align: center;
+	font-size: 4em;
+	letter-spacing: .15em;
+	font-family: Pacifico;
+	 }
 p{ font-family:'Open Sans', sans-serif;
 
  }
