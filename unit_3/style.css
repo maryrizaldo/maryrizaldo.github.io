@@ -29,14 +29,13 @@ section {
 nav {
 	float: right;
 	width: 100%;
-}
-
-nav a {
 	margin-right: 50px;
 	margin-left: 50px;
 	margin-bottom: 50px;
 	margin-top: 50px;
-	}
+
+}
+
 
 a{ 
 color: black;
@@ -51,7 +50,7 @@ h1 {
 	letter-spacing: .15em;
 	font-family: Pacifico;
 	color: white;	
-	
+
 }
 
 
