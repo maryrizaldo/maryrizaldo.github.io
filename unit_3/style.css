@@ -20,6 +20,7 @@ body {
 }
 section {
 	text-align: center;
+	color: white;
 	background: url("https://i.imgur.com/LW4s4HQ.jpg");
 	background-size: cover;
 	height: 100vh;
@@ -57,4 +58,5 @@ h1 {
 	color: white;
 }
 p{ font-family:'Open Sans', sans-serif;
+color: black;
  }
