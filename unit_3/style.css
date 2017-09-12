@@ -11,7 +11,7 @@ header {
 }
 
 body {
-	color: #000;
+	color: white;
 	font-family: Helvetica;
 	font-size: 16px;
 	text-align: center;
@@ -20,7 +20,6 @@ body {
 }
 section {
 	text-align: center;
-	color: white;
 	background: url("https://i.imgur.com/LW4s4HQ.jpg");
 	background-size: cover;
 	height: 100vh;
@@ -49,14 +48,14 @@ padding-bottom: 14px 16px;
 text-align: center;
  }
 
-h1 {
+h1, h2 {
 
 	text-align: center;
 	font-size: 4em;
 	letter-spacing: .15em;
 	font-family: Pacifico; 
-	color: white;
+	
 }
 p{ font-family:'Open Sans', sans-serif;
-color: black;
+
  }
