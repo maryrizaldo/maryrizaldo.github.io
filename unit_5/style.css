@@ -4,13 +4,13 @@ header {
 	background-color: #FFED74;
 	border: 1px black solid;
 	padding: 20px;
-	text-align: left;
+	text-align: center;
 }
 nav{ 
 	background-color: #E8C66A;
 	border: 1px black solid;
 	padding: 20px;
-	text-align: right;
+	text-align: center;
 	margin: 0 auto;
  }
 aside{
@@ -30,6 +30,7 @@ footer{
 	background-color: #ff957e;
 	border: 1px black solid;
 	padding: 20px;
+	margin:0 auto;
 }
 
 div{
