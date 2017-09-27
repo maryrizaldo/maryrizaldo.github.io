@@ -7,14 +7,14 @@ header {
 	padding: 20px;
 	text-align: center;
 }
-nav{ 
+nav { 
 	background-color: #E8C66A;
 	border: 1px black solid;
 	padding: 20px;
 	text-align: center;
 	margin: 0 auto;
  }
-aside{
+aside {
 	background-color: #FFC675;
 	border: 1px black solid;
 	padding: 20px;
@@ -27,7 +27,7 @@ aside{
 	padding: 20px;
 }
 
-#left{
+#left {
 	background-color: #e582a2;
 	border: 1px black solid;
 	padding: 20px;
@@ -35,12 +35,20 @@ aside{
 	width: 30%;
 }
 
-#right{
+#right {
 	background-color: #e55b88;
 	border: 1px black solid;
 	padding: 20px;
 	float: right;
 	width: 62%;
+}
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content:" ";
+	clear:both;
+	height: 0;
 }
 
 }
