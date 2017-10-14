@@ -51,14 +51,6 @@ aside {
 	height: 0;
 }
 
-}
-article{
-	background-color: #e89c6c;
-	border: 1px black solid;
-	padding: 20px;
-	margin: 0 left;
-
-}
 footer{
 	background-color: #ff957e;
 	border: 1px black solid;
@@ -71,6 +63,24 @@ div{
 	border: 1px black solid;
 	padding: 20px;
 }
+
+.kyoto {
+	width: 30.33%
+	margin 1.5%;
+	float: left;
+	position: relative;
+}
+
+.kyoto img{ width: 100%;
+display: block; 
+ }
+
+@media screen and (max-width:970px){
+	.citytokyo{
+		width: 40%;
+		height: 375px;
+		align-content: center;
+
 
 
 
