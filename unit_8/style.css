@@ -28,7 +28,7 @@ aside {
 }
 
 #left {
-	background-color: #e582a2;
+	background-color: white;
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
@@ -36,7 +36,7 @@ aside {
 }
 
 #right {
-	background-color: #e55b88;
+	background-color: white;
 	border: 1px black solid;
 	padding: 20px;
 	float: right;
