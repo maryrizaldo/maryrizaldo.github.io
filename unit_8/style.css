@@ -2,27 +2,27 @@ body{
 font-style: Avenir;
  }
 header {
-	background-color: #FFED74;
+	background-color: white;
 	border: 1px black solid;
 	padding: 20px;
 	text-align: center;
 }
 nav { 
-	background-color: #E8C66A;
+	background-color: white;
 	border: 1px black solid;
 	padding: 20px;
 	text-align: center;
 	margin: 0 auto;
  }
 aside {
-	background-color: #FFC675;
+	background-color: white;
 	border: 1px black solid;
 	padding: 20px;
 	margin: 0 right;
 }
 
 #two_column {
-	background-color: #FFB7CF;
+	background-color: white;
 	border: 1px black solid;
 	padding: 20px;
 }
@@ -52,14 +52,14 @@ aside {
 }
 
 footer{
-	background-color: #ff957e;
+	background-color: white;
 	border: 1px black solid;
 	padding: 20px;
 	margin:0 auto;
 }
 
 div{
-	background-color: #FFE2b8;
+	background-color: white;
 	border: 1px black solid;
 	padding: 20px;
 }
