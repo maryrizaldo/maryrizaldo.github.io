@@ -33,12 +33,9 @@ header {
 }
 
 nav{
-	margin-right: 50px;
-	margin-left: 50px;
-	margin-bottom: 50px;
-	margin-top: 50px;
+	font-size: 22px;
+	float: left
 }
-
 
 a{ 
 color: black;
