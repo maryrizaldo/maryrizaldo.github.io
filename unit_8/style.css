@@ -3,33 +3,28 @@ font-style: Avenir;
  }
 header {
 	background-color: white;
-	border: 1px black solid;
 	padding: 20px;
 	text-align: center;
 }
 nav { 
 	background-color: white;
-	border: 1px black solid;
 	padding: 20px;
 	text-align: center;
 	margin: 0 auto;
  }
 aside {
 	background-color: white;
-	border: 1px black solid;
 	padding: 20px;
 	margin: 0 right;
 }
 
 #two_column {
 	background-color: white;
-	border: 1px black solid;
 	padding: 20px;
 }
 
 #left {
 	background-color: white;
-	border: 1px black solid;
 	padding: 20px;
 	float: left;
 	width: 30%;
@@ -37,7 +32,6 @@ aside {
 
 #right {
 	background-color: white;
-	border: 1px black solid;
 	padding: 20px;
 	float: right;
 	width: 62%;
@@ -53,14 +47,12 @@ aside {
 
 footer{
 	background-color: white;
-	border: 1px black solid;
 	padding: 20px;
 	margin:0 auto;
 }
 
 div{
 	background-color: white;
-	border: 1px black solid;
 	padding: 20px;
 }
 
