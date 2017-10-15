@@ -12,13 +12,14 @@ h1, h2 {
 h1 {
 	font-family: 'Pacifico';
 	font-size: 16px;
+	text-align: center;
 }
 
 h2 {
 font-size: 16px;
 padding: 13px 0;
-color: black;
-border-bottom-color:#fffebb;
+color: white;
+border-bottom-color: #fffebb;
 }
 
 ul {
