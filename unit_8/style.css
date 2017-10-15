@@ -6,7 +6,6 @@ font-family: 'open sans', sans-serif;
 
 h1, h2 { 
 	
-	text-transform: lowercase;
 	display: inline-block;
 }
 
@@ -91,7 +90,7 @@ overflow: auto;
  	float: right; }
  }
 
- @media screen and(max-width:800px) {
+ @media screen and (max-width:800px) {
 nav {
 	float: none; 
 }
