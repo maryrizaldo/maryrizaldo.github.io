@@ -1,5 +1,5 @@
 body{ 
-font-family: 'Pacifico', sans-serif; 
+font-family: 'open sans', sans-serif; 
 
 
 }
@@ -13,6 +13,7 @@ h1, h2 {
 }
 
 h1 {
+	font-family: 'Pacifico';
 	font-size: 16px;
 }
 
