@@ -13,7 +13,6 @@ h2 {
 	text-align: center;
 padding: 13px 0;
 color: white;
-border-bottom-color: #fffebb;
 }
 
 ul {
@@ -36,6 +35,7 @@ li{
 
 div { 
 padding: 30px;
+text-align: center;
  }
 
 
@@ -70,7 +70,8 @@ clear: both;
 width: 480px;
 }
 
-section { background: url("https://imgur.com/LW4s4HQ");
+section {
+ background: url("https://imgur.com/LW4s4HQ");
 color: white;
 overflow: auto;
  }
