@@ -1,6 +1,8 @@
 body{ 
 font-family: 'open sans', sans-serif; 
 float: center;
+background: url("https://imgur.com/LW4s4HQ");
+ background-size:  cover;
 
 
 }
@@ -69,8 +71,7 @@ width: 480px;
 }
 
 section {
- background: url("https://imgur.com/LW4s4HQ");
- background-size:  cover;
+ 
 color: white;
 overflow: auto;
  }
