@@ -73,16 +73,11 @@ overflow: auto;
  }
 
  #about {
- 	font-size: 16px;
+ 	font-size: 22px;
  	width: 40%;
  	display: inline-block;
  	text-align: center;
- }
-
- #catalog { 
- 	font-size: 22px;
- 	width: 40%;
- 	float: right; }
+ 	float: center; }
  }
 
  @media screen and (max-width:800px) {
@@ -135,7 +130,7 @@ margin: 1.8em .6em 0;
   padding: .6em;
    }
 
-   #catalog { 
+   #about { 
    float: none; 
    font-size: 1.4em;
     }
