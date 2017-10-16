@@ -25,8 +25,6 @@ ul {
 li{
 	float: center;
 	font-size: 20px;
-	width: 50%;
-	height: 100px;
 	text-align: center; 
 	line-height: 100px;
 	color: black;
@@ -87,10 +85,10 @@ overflow: auto;
 
  @media screen and (max-width:800px) {
 nav {
-	float: none; 
+	float: center; 
 }
 
-nav { float: none;
+nav { float: center;
  }
 nav a { 
 margin: 0 1.6em .75em 0;
