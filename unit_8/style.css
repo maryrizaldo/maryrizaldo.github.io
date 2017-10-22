@@ -1,9 +1,7 @@
 body{ 
 font-family: 'open sans', sans-serif; 
 float: center;
-background: url("https://imgur.com/LW4s4HQ");
- background-size:  cover;
-
+background-size: cover;
 
 }
 
@@ -45,6 +43,8 @@ text-align: center;
 header {
 	float: center;
 text-align: center;
+background: url(<img src= ("https://imgur.com/LW4s4HQ");
+background-size: cover;
 
 
 }
@@ -87,8 +87,9 @@ width: 480px;
 
 section {
  
-color: white;
+color: black;
 overflow: auto;
+text-align: center;
  }
 
  #about {
