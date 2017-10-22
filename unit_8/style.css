@@ -33,6 +33,7 @@ li{
 	line-height: 100px;
 	color: black;
 	background: white;
+	outline-color: black; 
 }
 
 div { 
