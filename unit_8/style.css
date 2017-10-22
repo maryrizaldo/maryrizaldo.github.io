@@ -43,7 +43,7 @@ text-align: center;
 header {
 	float: center;
 text-align: center;
-background: url(<img src= ("https://imgur.com/LW4s4HQ");
+background: url("https://imgur.com/LW4s4HQ");
 background-size: cover;
 
 
@@ -56,6 +56,7 @@ text-align: center;
 	padding: 18px 0;
 	margin-top: 40px;
 	clear: both;	
+	width: 100%;
 }
  
 
