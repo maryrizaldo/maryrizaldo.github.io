@@ -3,7 +3,7 @@ font-family: 'open sans', sans-serif;
 float: center;
 background-size: cover;
 text-align: center;
-
+background: url("https://imgur.com/LW4s4HQ");
 }
 
 h2 { 
@@ -46,9 +46,6 @@ header {
 text-align: center;
 padding: 18px 0;
 height: 90vh;
-background: url("https://imgur.com/LW4s4HQ");
-background-size: cover;
-
 }
 
 nav { 
