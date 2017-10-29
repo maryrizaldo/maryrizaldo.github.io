@@ -1,3 +1,153 @@
-title {
-	font-style: 'pacifico';
+body{ 
+font-family: 'open sans', sans-serif; 
+text-align: center;
+float: center;
 }
+
+h2 { 
+	
+	display: inline-block;
+	font-family: 'Pacifico';
+	font-size: 30px;
+	text-align: center;
+padding: 13px 0;
+color: black;
+float: center;
+}
+
+ul {
+	float: center;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+		text-align: center;
+	padding: 18px 0;
+	margin-top: 40px;
+	clear: both;	
+	outline: black solid thin;
+
+}
+
+li{
+	float: center;
+	font-size: 20px;
+	text-align: center; 
+	line-height: 100px;
+	color: black;
+	background: white;
+	outline: black solid thin;
+}
+
+
+div { 
+padding: 30px;
+text-align: center;
+ }
+
+header {
+	float: center;
+text-align: center;
+padding: 18px 0;
+}
+
+nav { 
+font-size: 16px;
+float: center;
+text-align: center;
+	padding: 18px 0;
+	margin-top: 40px;
+	clear: both;	
+	width: 100%;
+}
+ 
+
+ nav a {
+ 	text-decoration: none;
+ 	color: black;
+ 	margin: 20px;
+ 	display: inline-block;
+ 	text-align:  center;
+ 	float: center;
+ }
+
+
+footer {
+
+	text-align: center;
+	border-top: 1px solid black;
+	padding: 18px 0;
+	margin-top: 40px;
+	clear: both;	
+}
+
+
+section {
+ 
+color: black;
+text-align: center;
+float: center;
+ }
+
+ #about {
+ 	font-size: 22px;
+ 	width: 40%;
+ 	display: inline-block;
+ 	text-align: center;
+ 	float: center; 
+ }
+
+ @media screen and (max-width:800px) {
+nav {
+	float: center; 
+}
+
+nav { float: center;
+ }
+nav a { 
+margin: 0 1.6em .75em 0;
+ }
+
+}
+
+@media screen and(max-width:480px) {
+h2, nav {
+	display: block;
+	text-align: center; 
+}
+
+h2 {
+	font-size: 1em;
+	display: inline;
+}
+p, ul { 
+margin: 1.8em .6em 0;
+
+ }
+
+ li { width: 80%;
+ outline-width: .5em;
+ padding: .5em;
+ height: 2em;
+ line-height: 2em;
+  }
+ nav a { 
+ margin: 0 1em 1em;
+  }
+
+  img {
+  	width: 230px;
+  }
+
+  section, div { 
+  width: 100%;
+  padding: .6em;
+   }
+
+   #about { 
+   float: center; 
+   font-size: 1.4em;
+    }
+}
+
+
+
