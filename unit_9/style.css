@@ -4,5 +4,7 @@ text-align: center;
 float: center;
 background: url('gradient_blueyellow.jpg');
 background-size: cover;
+padding: 20px 0 
+margin 0 0 0 30px;
 }
 
