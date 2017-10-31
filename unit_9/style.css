@@ -2,10 +2,15 @@
 font-family: 'pacifico';  
 text-align: center;
 float: center;
-background: url('gradient_blueyellow.jpg');
+background: url('intro_img.jpg');
 background-size: cover;
+opacity: 0.5;
 padding: 20px 0 
 margin: 0 0 0 30px;
 height: 400px;
+}
+
+h1 {
+	float: center;
 }
 
