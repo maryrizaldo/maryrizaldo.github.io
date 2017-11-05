@@ -1,3 +1,4 @@
+
 #intro { 
 font-family: 'pacifico';  
 text-align: center;
@@ -19,6 +20,8 @@ header {
 }
 
 nav a { 
+font-family:  'open sans';
+font-size: 14px;
 text-decoration: none;
 color: black;
 margin:20px;
