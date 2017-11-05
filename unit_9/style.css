@@ -18,6 +18,15 @@ header {
 	width: 100%;
 }
 
+nav a { 
+text-decoration: none;
+color: black;
+margin:20px;
+display: inline-block;
+text-align: center;
+float: center;
+}
+
 
 h1 {
 	text-align: center;
