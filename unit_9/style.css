@@ -48,5 +48,6 @@ h1 {
 #about img {
 	float: left; 
 	width: 10%;
+	padding top: 30px;
 }
 
