@@ -43,9 +43,10 @@ h1 {
 	margin bottom: 100px;
 	height: 100px;
 	padding: 200px;
+	font-size: 40px; 
 }
 
-about {
+#about {
 	padding top: 30px;
 }
 
