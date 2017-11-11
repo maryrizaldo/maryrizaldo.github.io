@@ -45,9 +45,17 @@ h1 {
 	padding: 200px;
 }
 
+about {
+	padding top: 30px;
+}
+
 #about img {
 	float: left; 
 	width: 10%;
 	padding top: 30px;
 }
+
+h2 { 
+float: right;
+p }
 
