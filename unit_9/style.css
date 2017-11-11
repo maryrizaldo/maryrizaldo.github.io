@@ -1,6 +1,9 @@
 
 body {
 	font-family: 'Open Sans';
+		padding: 20px 0 
+margin: 0 0 0 30px;
+height: 400px;
 }
 
 
@@ -47,10 +50,9 @@ h1 {
 }
 
 #about {
-	padding top: 30px;
-	margin-top: 30px;
-	border: 30px
-	
+	padding: 20px 0 
+margin: 0 0 0 30px;
+height: 400px;
 }
 
 #about img {
