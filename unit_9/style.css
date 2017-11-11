@@ -58,7 +58,7 @@ margin top: 30px;
 border: 30px;
 }
 
-h2 { 
+h2, p { 
 float: right;
 padding padding-right: 30px;
 text-align: center;
