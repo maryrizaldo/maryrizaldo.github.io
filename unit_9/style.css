@@ -54,9 +54,13 @@ h1 {
 	float: left; 
 	width: 10%;
 	padding top: 30px;
+margin top: 30px;
+border: 30px;
 }
 
 h2 { 
 float: right;
-p }
+padding padding-right: 30px;
+text-align: center;
+ }
 
