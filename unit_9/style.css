@@ -6,7 +6,6 @@ body {
 
 header {
 padding: 1em;
-height: 1em;
 background: white;
 margin: 1em;
 border: 1em;
@@ -15,10 +14,13 @@ border: 1em;
 #logo_home {
 	width: 5%;
 	display: inline-block;
-	margin: 20px;
+	margin-left: 5%;
 	padding: 1em;
 	padding bottom: 2em;
 	float: center;
+	width: auto;
+
+
 }
 
 #intro {
@@ -34,7 +36,7 @@ float: center;
 nav{
 font-size: 14px;
 float: right;
-text-align: center;
+text-align: right;
 clear: both;	
 width: 100%;
 padding: 1em;
@@ -46,7 +48,7 @@ nav a {
  	color: black;
  	margin: 20px;
  	display: inline-block;
- 	text-align:  center;
+ 	text-align:  right;
  	float: center;
  	font-family: 'open sans';
 
