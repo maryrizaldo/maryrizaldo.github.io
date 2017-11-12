@@ -33,6 +33,7 @@ nav{
 	float: right;
 	line-height: 10px;
 	text-align: 20px;
+	color: white;
 
 }
 
@@ -83,7 +84,7 @@ margin-bottom: 1em;
 
 #about img {
 	float: left; 
-	width: 50%;
+	width: 25%;
 	padding top: 30px;
 margin top: 30px;
 border: 30px;
