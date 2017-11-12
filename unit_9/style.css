@@ -14,8 +14,9 @@ margin-top: 1em;
 }
 
 #logo_home {
-	width: 3%;
-	float: left;
+	width: 5%;
+	display: inline-block;
+	margin: 20px;
 }
 
 #intro {
@@ -42,7 +43,7 @@ nav a {
  	margin: 20px;
  	display: inline-block;
  	text-align:  center;
- 	float: center;
+ 	float: right;
  	font-family: 'open sans';
 }
 
