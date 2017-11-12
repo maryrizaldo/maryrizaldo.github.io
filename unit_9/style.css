@@ -14,7 +14,7 @@ border: 1em;
 #logo_home {
 	width: 5%;
 	display: inline-block;
-	margin-left: 5%;
+	margin-bottom: 5%;
 	padding: 1em;
 	padding bottom: 2em;
 	float: center;
@@ -36,7 +36,7 @@ float: center;
 nav{
 font-size: 14px;
 float: right;
-text-align: right;
+text-align: center;
 clear: both;	
 width: 100%;
 padding: 1em;
@@ -75,11 +75,11 @@ h1 {
 
 #about img {
 	width: 25%;
-
+padding: 2em;
 }
 
 h2 { 
-
+float: center;
 	text-align: center;
 	font-size: 2em;
 padding-top: 1em;
