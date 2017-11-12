@@ -13,7 +13,7 @@ background: white;
 
 }
 
-#logo {
+#logo_home {
 	width: 3%;
 	float: left;
 }
@@ -30,7 +30,7 @@ float: center;
 
 nav{
 	font-size: 16px;
-float: rights;
+float: right;
 text-align: center;
 	clear: both;	
 	width: 100%;
