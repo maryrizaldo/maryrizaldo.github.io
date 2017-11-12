@@ -8,7 +8,8 @@ header {
 padding: 18px, 0;
 height: 1em;
 background: white;
-margin-top: 1em;
+margin: 1em;
+
 
 }
 
@@ -17,7 +18,6 @@ margin-top: 1em;
 	display: inline-block;
 	margin: 20px;
 	padding: 1em;
-	align-content: center;
 }
 
 #intro {
@@ -33,11 +33,12 @@ float: center;
 nav{
 font-size: 14px;
 float: right;
-text-align: top;
+text-align: center;
 clear: both;	
 width: 100%;
 padding: 1em;
 }
+
 
 nav a { 
 	text-decoration: none;
@@ -47,6 +48,7 @@ nav a {
  	text-align:  center;
  	float: right;
  	font-family: 'open sans';
+
 }
 
 
@@ -68,21 +70,15 @@ h1 {
 }
 
 #about img {
-	float: center; 
+	float: left; 
 	width: 25%;
-	padding top: 20px;
-	padding right: 20px;
-margin top: 10px;
-border: 10px;
+
 }
 
 h2 { 
 	font-size: 2em;
-float: center;
-text-align: center
 padding-top: 1em;
 padding-bottom: 1em;
-margin: 1em;
-padding-right: 1em;
+margin left: 2em;
  }
 
