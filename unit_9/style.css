@@ -49,23 +49,30 @@ h1 {
 	font-size: 40px; 
 }
 
+p{ margin-top: 1em;
+margin-bottom: 1em;
+}
+
+
 #about {
-	padding: 20px 0 
-margin: 0 0 0 30px;
-height: 400px;
+	max-width: 800px;
+	padding-top: 2em; 
+	margin: auto;
+	width: 100%;
 }
 
 #about img {
 	float: left; 
-	width: 10%;
+	width: 50%;
 	padding top: 30px;
 margin top: 30px;
 border: 30px;
 }
 
-h2, p { 
+h2 { 
+	font-size: 2em;
 float: right;
-padding padding-right: 30px;
-text-align: center;
+padding-top: 1em;
+padding-bottom: 1em;
  }
 
