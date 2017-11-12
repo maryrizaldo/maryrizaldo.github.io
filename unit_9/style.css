@@ -14,12 +14,17 @@ header {
 	font-family: 'pacifico';  
 text-align: center;
 float: center;
-background: url('intro_img.jpg');
-background-size: cover;
-opacity: 0.5;
 padding: 20px 0 
 margin: 0 0 0 30px;
 height: 400px;
+}
+
+#intro {
+	background: url('intro_img.jpg');
+background-size: cover;
+height: 90vh;
+
+
 }
 
 nav{
@@ -30,11 +35,10 @@ nav{
 	text-align: 20px;
 	color: white;
 	margin: 1em;
-
 }
 
 aside { 
-float: center;
+float: left;
 margin: 40px;
 width: 100%;
  }
@@ -42,7 +46,7 @@ width: 100%;
 #logo {
 	float: center;
 	padding: 10px;
-	width: 1%;
+	width: 6%;
 }
 
 nav a { 
