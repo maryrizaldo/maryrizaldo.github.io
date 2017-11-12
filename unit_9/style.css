@@ -5,12 +5,11 @@ body {
 
 
 header {
-padding: 18px, 0;
+padding: 1em;
 height: 1em;
 background: white;
 margin: 1em;
-
-
+border: 1em;
 }
 
 #logo_home {
@@ -56,9 +55,9 @@ h1 {
 	text-align: center;
 	float: center;
 	color: white;
-	height: 90vh;
 	padding: 200px;
 	font-size: 40px; 
+	line-height: 45vh;
 }
 
 
