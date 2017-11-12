@@ -63,6 +63,7 @@ h1 {
 
 
 #about {
+	float: center;
 	max-width: 800px;
 	padding-top: 1em; 
 	margin: 2em;
@@ -70,15 +71,17 @@ h1 {
 }
 
 #about img {
-	float: left; 
+	float: center; 
 	width: 25%;
 
 }
 
 h2 { 
+	text-align: center;
 	font-size: 2em;
 padding-top: 1em;
 padding-bottom: 1em;
 margin left: 2em;
+border-left: 2em;
  }
 
