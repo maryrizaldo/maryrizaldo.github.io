@@ -34,6 +34,7 @@ nav{
 	line-height: 10px;
 	text-align: 20px;
 	color: white;
+	margin: 2em;
 
 }
 
@@ -54,10 +55,11 @@ font-family: 'open sans';
 font-size: 14px;
 text-decoration: none;
 color: black;
-margin: 20px;
+margin: 2em;
 text-align: center;
 float: center;
-margin: 20px;
+display:inline-block;
+padding: 2em;
 }
 
 
