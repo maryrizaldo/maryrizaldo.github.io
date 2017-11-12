@@ -70,18 +70,9 @@ h1 {
 	height: 60vh;
 }
 
-#about img {
-	width: 25%;
-padding: 2em;
-}
-
 h2 { 
 float: center;
 	text-align: center;
 	font-size: 2em;
-padding-top: 1em;
-padding-bottom: 1em;
-margin left: 2em;
-border-left: 2em;
  }
 
