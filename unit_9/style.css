@@ -6,12 +6,16 @@ body {
 
 header {
 	text-align: center;
-	float: center;
 padding: 18px, 0;
 height: 1em;
 background: white;
 	margin-top: 1em;
 
+}
+
+#logo {
+	width: 3%;
+	float: left;
 }
 
 #intro {
@@ -26,7 +30,7 @@ float: center;
 
 nav{
 	font-size: 16px;
-float: left;
+float: right;
 text-align: center;
 	clear: both;	
 	width: 100%;
