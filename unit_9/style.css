@@ -74,6 +74,7 @@ h1 {
 
 p{ margin-top: 1em;
 margin-bottom: 1em;
+margin-right: 1em;
 }
 
 
@@ -87,14 +88,14 @@ margin-bottom: 1em;
 #about img {
 	float: left; 
 	width: 25%;
-	padding top: 30px;
-margin top: 30px;
-border: 30px;
+	padding top: 20px;
+margin top: 10px;
+border: 10px;
 }
 
 h2 { 
 	font-size: 2em;
-float: right;
+float: center;
 padding-top: 1em;
 padding-bottom: 1em;
  }
