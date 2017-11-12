@@ -8,6 +8,8 @@ header {
 	text-align: center;
 	float: center;
 padding: 18px, 0;
+height: 300px;
+background: white;
 
 }
 
@@ -38,7 +40,6 @@ width: 100%;
 
 #logo {
 	float: center;
-	padding: 10px;
 	width: 6%;
 }
 
