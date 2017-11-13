@@ -7,7 +7,6 @@ body {
 header {
 padding: 1em;
 background: white;
-margin: 1em;
 border: 1em;
 height: 2em;
 }
@@ -17,7 +16,7 @@ height: 2em;
 	display: inline-block;
 	margin-bottom: 5%;
 	padding: 1em;
-	padding-bottom: 2em;	
+	padding-bottom: 2em;    	
 }
 
 #intro {
