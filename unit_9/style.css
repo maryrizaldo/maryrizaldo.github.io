@@ -13,11 +13,11 @@ height: 2em;
 }
 
 #logo_home {
-	width: 5%;
+	width: 4%;
 	display: inline-block;
 	margin-bottom: 5%;
 	padding: 1em;
-	padding bottom: 2em;	
+	padding-bottom: 2em;	
 }
 
 #intro {
@@ -46,7 +46,7 @@ nav a {
  	margin: 20px;
  	display: inline-block;
  	text-align:  right;
- 	float: center;
+ 	float: right;
  	font-family: 'open sans';
 
 }
@@ -57,6 +57,7 @@ h1 {
 	float: center;
 	color: white;
 	font-size: 40px; 
+	padding: 1em;
 
 }
 
