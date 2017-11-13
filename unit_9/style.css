@@ -14,9 +14,10 @@ height: 2em;
 #logo_home {
 	width: 4%;
 	display: inline-block;
-	margin-bottom: 5%;
+	margin-bottom: 1em;
 	padding: 1em;
-	padding-bottom: 2em;    	
+	padding-bottom: 2em;   
+	border-bottom: 1em; 	
 }
 
 #intro {
