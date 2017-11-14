@@ -40,6 +40,7 @@ nav a {
 	text-decoration: none;
  	color: black;
  padding: 10px; 
+ display: inline-block;
  	text-align:  right;
  	float: right;
  	font-family: 'open sans';
