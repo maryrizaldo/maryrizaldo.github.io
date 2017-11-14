@@ -73,5 +73,6 @@ float: center;
 	padding: 1em;
 	margin: 1em;
 	width: 100%;
+	position: absolute;
  }
 
