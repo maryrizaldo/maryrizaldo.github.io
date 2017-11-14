@@ -6,14 +6,14 @@ body {
 
 header {
 background: white;
-height: 70px;
-margin: -10px;
+height: 60px;
+margin: -5px;
 width: 100%;
 }
 
 #logo_home {
 	float: left;
-	width: 4%;
+	width: 3%;
 
 }
 
@@ -39,8 +39,7 @@ width: 100%;
 nav a { 
 	text-decoration: none;
  	color: black;
- 
- 	display: inline-block;
+ padding: 10px; 
  	text-align:  right;
  	float: right;
  	font-family: 'open sans';
